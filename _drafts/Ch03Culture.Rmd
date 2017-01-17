@@ -1,0 +1,62 @@
+---
+title: "Culture<br><font size=8>A Sociological Perspective</font>"
+author: "SOC 101"
+date: "Fall 2015"
+output: 
+  ioslides_presentation: 
+    logo: C:/Users/Trey/Downloads/LCC_logo_blue-lg_3.png
+    smaller: yes
+    widescreen: yes
+---
+
+## Defining *Culture* and *Society*
+
+__Culture__
+
+> [T]hat complex whole which includes knowledge, beliefs, arts, morals, law,
+> customs, and any other capabilities and habits acquired by [a human] as a
+> memeber of society. ---E. B. Tylor (*Primitive Culture*, 1871)
+
+or
+
+> The concept of culture...is essentially a semiotic one. Believing, with
+Max Weber, that man is an animal suspended in webs of significance he
+himself has spun, I take culture to be those webs, and the analysis of it
+to be therefore not an experimental science in search of law but an interpretive
+one in search of meaning. 
+
+- Society
+
+
+
+## Defining Society
+
+-
+-
+
+
+## Cultural Universals (?)
+
+
+
+## Cultural Relativism and Ethnocentrism
+
+
+
+## Values, Beliefs, Norms
+
+
+
+## Language
+
+
+
+## Varieties of Culture
+
+
+
+## Cultural Change
+
+
+
+## Sociological Perspectives on Culture

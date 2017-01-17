@@ -1,0 +1,254 @@
+---
+title: "Society and Social Interaction"
+author: "SOC& 101"
+date: "Fall 2015"
+output: 
+  ioslides_presentation: 
+    logo: ~/Downloads/LCC_logo_blue-lg.png
+    smaller: yes
+    widescreen: yes
+subtitle: "A Sociological Perspective"
+---
+
+# Types of Societies
+
+## How do sociologists classify societies?
+
+__Technological sophistication:__  Generally, the greater the level of technological sophistication, the *less* a society depends on environmental fluctuations.
+
+<CENTER>
+<a title="Stone and metal knives. Courtesy of Dhatfield [CC BY-SA 3.0 (http://creativecommons.org/licenses/by-sa/3.0)], via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File%3AALM_05_Dolch_edit2.jpg"><img width="500" alt="ALM 05 Dolch edit2" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/ALM_05_Dolch_edit2.jpg/512px-ALM_05_Dolch_edit2.jpg"/></a>
+</CENTER><br>
+
+Alternatively, societies can be organized by *social complexity*...
+
+- Egalitarian
+- Ranked
+- Stratified
+- State
+
+
+## Preindustrial Societies
+
+<div class="columns-2">
+__General characteristics__
+
+- Small population size
+- Low population density
+- Human/animal labor
+<br>
+<br>
+<br>
+
+<p><a href="https://commons.wikimedia.org/wiki/File:BushmenSan.jpg#/media/File:BushmenSan.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/8/81/BushmenSan.jpg" alt="BushmenSan.jpg" width="500"></a><br>"<a href="https://commons.wikimedia.org/wiki/File:BushmenSan.jpg#/media/File:BushmenSan.jpg">San Bushmen in Africa</a>" by Isewell. Licensed under <a href="http://creativecommons.org/licenses/by-sa/2.5" title="Creative Commons Attribution-Share Alike 2.5">CC BY-SA 2.5</a> via <a href="https://commons.wikimedia.org/wiki/">Commons</a>.</p>
+</div>
+
+
+## Types of Preindustrial Societies
+
+<div class="columns-2">
+
+__Hunter-gathers__
+
+- Most of human existence, up to about 10,000 years ago
+- Highly-dependent on environment and avaialable resources
+- *Wild* animals and plants
+  
+__Pastoralists__
+
+- Animal husbandry of *domesticated* animal species
+- Relatively mobile (searching for grazing land)
+- Animals used for food/clothing/labor/transportation
+  
+  <br>
+  
+  <p><a href="https://en.wikipedia.org/wiki/File:Baggara_Arabs.jpg#/media/File:Baggara_Arabs.jpg"><img src="https://upload.wikimedia.org/wikipedia/en/a/a5/Baggara_Arabs.jpg" alt="Baggara Arabs.jpg"></a><br>"<a href="https://en.wikipedia.org/wiki/File:Baggara_Arabs.jpg#/media/File:Baggara_Arabs.jpg">Baggara pastoralists in Sudan</a>". Licensed under <a href="http://creativecommons.org/licenses/by-sa/3.0/" title="Attribution-ShareAlike 3.0">CC BY-SA 3.0</a> via <a href="//en.wikipedia.org/wiki/">Wikipedia</a>.</p>
+</div>
+
+## Types of Preindustrial Societies (cont.)
+
+<div class="columns-2">
+
+__Horticulturalists__
+
+- Small patches of wild/domesticated plants; relatively simple tools, not very labor intenstive
+- Supplements other subsistence strategies
+- Associated with more-pemanent settlements
+
+__Agriculturalists__
+
+- Limited range of staple crops; surplus storage
+- Larger, permanent settlements
+- Non-food producers (i.e., craft specialists and elites)
+
+__Feudal__
+
+- Strict socio-economic hierarchy
+- Lords (wealthy landowners) and peasants (worked land and received protection in return)
+
+<br>
+<br>
+
+<CENTER>
+<a title="By Unknown (&quot;Le Bon&quot;) [Public domain], via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File%3AINF3-107_Food_Production_Lend_a_hand_on_the_land_at_an_Agricultural_Camp_Artist_Le_Bon.jpg"><img width="300" alt="INF3-107 Food Production Lend a hand on the land at an Agricultural Camp Artist Le Bon" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/INF3-107_Food_Production_Lend_a_hand_on_the_land_at_an_Agricultural_Camp_Artist_Le_Bon.jpg/512px-INF3-107_Food_Production_Lend_a_hand_on_the_land_at_an_Agricultural_Camp_Artist_Le_Bon.jpg"/></a>
+</CENTER>
+</div>
+
+
+## Industrial Societies
+
+<div class="columns-2">
+
+Industrial Revolution begins in 18th century, continues into the 19th century
+
+- First steam engine in 1782
+- Mechanical power replaces human/animal power
+
+<br>
+
+Accompanied by other social changes...
+
+- Population movements to urban centers
+- Rural migrants faced over-crowding, poor living/working conditions, and poverty
+- Aspirations of upward socio-economic mobility
+- "Old" money challenged by "new" money
+<br>
+
+<font size=5 color="red">__Sociology develops in this social context.__</font>
+
+<br>
+<br>
+
+<CENTER>
+<p><a href="https://commons.wikimedia.org/wiki/File:Bridgewater_foundary.gif#/media/File:Bridgewater_foundary.gif"><img src="https://upload.wikimedia.org/wikipedia/commons/2/20/Bridgewater_foundary.gif" alt="Bridgewater foundary.gif" width="500"></a><br>"<a href="https://commons.wikimedia.org/wiki/File:Bridgewater_foundary.gif#/media/File:Bridgewater_foundary.gif">Bridgewater Foundary:  one of the earliest "modern" factories</a>" by Illegible. Licensed under Public Domain via <a href="https://commons.wikimedia.org/wiki/">Commons</a>.</p>
+</CENTER>
+</div>
+
+
+## Post-industrial Societies
+
+<div class="columns-2">
+
+Also called __*information societies*__
+
+Some general features...
+
+- Decrease in production of material goods
+- Increas in production of *information* and *services*
+- Access to education more important (than in an industrial society)
+
+<br>
+<br>
+<br>
+<br>
+
+<CENTER>
+<a title="By Jeff Ogden (W163) [CC BY-SA 3.0 (http://creativecommons.org/licenses/by-sa/3.0)], via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File%3AInternetPenetrationWorldMap.svg"><img width="512" alt="InternetPenetrationWorldMap" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/InternetPenetrationWorldMap.svg/512px-InternetPenetrationWorldMap.svg.png"/></a><font size=4>Internet users in 2012 as a percentage of a country's population. Licensed under <a href="http://creativecommons.org/licenses/by-sa/3.0" title="Creative Commons Attribution-Share Alike 3.0">CC BY-SA 3.0</a> via <a href="https://commons.wikimedia.org/wiki/">Commons</a></font>
+</CENTER>
+
+
+# Sociological Perspectives on Society
+
+## Durkheim and Functionalism
+
+<div class="columns-2">
+
+Main concepts...
+
+- Collective conscience
+- Social integration
+- Mechanical solidarity
+- Organic solidarity
+- Anomie
+
+<br>
+<br>
+
+
+<CENTER>
+<a href="http://thecrankysociologists.com/files/2013/05/durkheimRGB-qcwvhq.gif"><img src="http://thecrankysociologists.com/files/2013/05/durkheimRGB-qcwvhq.gif" alt="Cartoon of Durkheim" width="500"></a><br>From <a href="http://thecrankysociologists.com/">The Cranky Sociologist</a>
+</CENTER>
+
+</div>
+
+
+## Marx and Conflict Theory
+
+<div class="columns-2">
+
+Main concepts...
+
+- Base and superstructure
+- Class conflict (bourgeoisie vs. proletariat)
+- Capitalism vs. communism
+- Alienation
+- False consciousness and class consciousness
+
+<br>
+<br>
+
+<CENTER>
+<a href="http://thecrankysociologists.com/files/2013/06/kartl-marx-pr8msk.gif"><img src="http://thecrankysociologists.com/files/2013/06/kartl-marx-pr8msk.gif" alt="Cartoon of Marx" width="500"></a><br>From <a href="http://thecrankysociologists.com/">The Cranky Sociologist</a>
+</CENTER>
+
+</div>
+
+
+## Weber and Symbolic Interactionsim
+
+<div class="columns-2">
+
+Main concepts...
+
+- Agreed with Marx regarding class as economically determined
+- Rationalization
+- The __iron cage__
+
+<br>
+<br>
+
+<CENTER>
+<p><a href="https://commons.wikimedia.org/wiki/File:WalmartRichmondHill.JPG#/media/File:WalmartRichmondHill.JPG"><img src="https://upload.wikimedia.org/wikipedia/commons/b/bd/WalmartRichmondHill.JPG" alt="WalmartRichmondHill.JPG" width="500"></a><br>"<a href="https://commons.wikimedia.org/wiki/File:WalmartRichmondHill.JPG#/media/File:WalmartRichmondHill.JPG">WalmartRichmondHill</a>" by <a href="//commons.wikimedia.org/wiki/User:Raysonho" title="User:Raysonho">Raysonho @ Open Grid Scheduler / Grid Engine</a> - <span class="int-own-work" lang="en">Own work</span>. Licensed under <a href="http://creativecommons.org/publicdomain/zero/1.0/deed.en" title="Creative Commons Zero, Public Domain Dedication">CC0</a> via <a href="https://commons.wikimedia.org/wiki/">Commons</a>.</p>
+</CENTER>
+
+</div>
+
+
+# Social Constructions of Reality
+
+## No Society Without Humans
+
+Peter Berger's and Thomas Luckmann's (1966) *The Social Construction of Reality*
+
+- Habitualization
+- Institutionalization
+
+Robert Mertons's concept of the __*self-fulfilling prophecy*__
+
+Cultural differences in verbal and non-verbal communication
+
+
+## Roles and Status
+
+What are __*roles*__?
+
+- Patterns of behavior that we recognize in each other that are representative of a person's social status
+
+What role are you currently playing?  What other roles do you play on a day-to-day basis?
+
+<br>
+
+What is __*status*__ to a sociologist?
+
+- Describe the responsibilities and benefits that a person experiences according to their rank and role in society
+- Ascribed vs. acheived status
+
+Role strain and role conflict
+
+
+## The "Self"
+
+Role performance and the "looking-glass self"
+
+
+# Next time...|Socialization

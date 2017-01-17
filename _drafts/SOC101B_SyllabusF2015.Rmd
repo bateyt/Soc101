@@ -1,0 +1,37 @@
+---
+title: "SOC 101 <br> Introduction to Sociology"
+output:
+  html_document: default
+  pdf_document:
+    keep_tex: yes
+date: "Fall Quarter 2015"
+---
+<br>
+<CENTER>
+  <img src="https://lh3.googleusercontent.com/qtgSFSdkUQNnt5uYFPQll7ui0EEuUBp9xpFNl7h4dZE=w500-h704-no" width="300">
+</CENTER><br>
+
+General Course Information
+===================
+
+- Name:  Introduction to Sociology
+- Number:  101
+- Section:  B
+- Term:  Fall 2015
+- Meets:  M/W/F; 9:00--10:25 a.m., Main 145
+
+
+Instructor Information
+======================
+
+- Name:  Trey Batey
+- Email:  ekt.batey@gmail.com
+- Phone:  xxx-xxx-xxxx
+- Office:  244 Main
+- Office hours:  M/W, 1:30--2:00 p.m., Tues., 2:00--3:00 p.m., or by appointment
+
+
+Course Description
+==================
+
+Examines the complexity of the sociological perspective to provide students with the conceptual tools essential to the development of a more complex understanding of the human condition. Students develop a comprehension of the role that social organization, socialization and social interaction plays in the formulation of social identity, a common conceptual understanding, social inequality and cultural diversity.

@@ -1,0 +1,33 @@
+---
+title: "SOC 101 <br> Introduction to Sociology"
+output:
+  html_document: default
+  pdf_document:
+    keep_tex: yes
+date: "Fall Quarter 2015"
+---
+<br>
+<CENTER>
+  <img src="http://thecrankysociologists.com/files/2013/05/durkheimRGB-qcwwof.gif" width="400">
+</CENTER><br>
+
+General Course Information
+===================
+
+- Name:  Introduction to Sociology
+- Number:  101
+- Section:  B
+- Term:  Fall 2015
+- Meets:  M/W/F; 9:00--10:25 a.m., Main 145
+
+
+Instructor Information
+======================
+
+- Name:  Trey Batey
+- Email:  ekt.batey@gmail.com
+- Phone:  xxx-xxx-xxxx
+- Office:  244 Main
+- Office hours:  M/W, 1:30--2:00 p.m., Tues., 2:00--3:00 p.m., or by appointment
+
+
