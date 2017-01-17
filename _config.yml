@@ -1,10 +1,10 @@
 # Site settings
-title: SOC 101
+title: SOC\& 101
 email: tbatey@lowercolumbia.edu
-description: This website is a repository for content and other teaching materials for SOC 101 (Introduction to Sociology) at Lower Columbia College.
+description: This website is a repository for content and other teaching materials for SOC\& 101 (Introduction to Sociology) at Lower Columbia College.
 baseurl: "/Soc101/" # the subpath of your site, e.g. /blog/
 url: "http://tbatey.org" # the base hostname & protocol for your site
-twitter_username: bateytk
+twitter_username: DocBatey
 github_username:  bateyt
 permalink: /:year/:month/:title.html
 
